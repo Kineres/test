@@ -1,11 +1,7 @@
 package customermanager;
-
-
 import java.io.*;
 import java.util.*;
-
 public class CustomerBSTLab {
-
     // ==================== 1. CUSTOMER ====================
     static class Customer {
         int ID;
